@@ -14,20 +14,20 @@
 		<div class="container">
 			<div class="box one text-center">
 				<h3 class="white-text">ABOUT US</h3>
-				<button class="btn"> LEARN MORE</button>
+				<a href="{{ url("about") }}"><button class="btn">LEARN MORE</button></a>
 
 			</div>
 			<div class="box two text-center">
 				<h3 class="white-text">FAQ'S</h3>
-				<button class="btn"> LEARN MORE</button>
+				<a href="{{ url("faqs") }}"><button class="btn">LEARN MORE</button></a>
 			</div>
 			<div class="box three text-center">
 				<h3 class="white-text">EMPLOYMENT</h3>
-				<button class="btn"> LEARN MORE</button>
+				<a href="{{ url("employment") }}"><button class="btn">LEARN MORE</button></a>
 			</div>
 			<div class="box four text-center">
 				<h3 class="white-text">CLIENT INFO</h3>
-				<button class="btn"> LEARN MORE</button>
+				<a href="{{ url("clientinfo") }}"><button class="btn">LEARN MORE</button></a>
 			</div>
 		</div>
 	</div>

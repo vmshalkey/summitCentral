@@ -15,7 +15,7 @@
 		<div class="collapse navbar-collapse" id="navbar-collapse">
 
 			<ul class="nav navbar-nav navbar-right">
-				<li><a href="{{ url("index") }}">HOME</a></li>
+				<li><a href="{{ url("") }}">HOME</a></li>
 				<li><a href="{{ url("about") }}">ABOUT US</a></li>
 				<li class="dropdown">
 					<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">CLIENT INFO</a>
