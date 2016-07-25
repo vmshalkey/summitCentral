@@ -2,7 +2,7 @@
 
 use Phalcon\Mvc\Controller;
 
-class HomeController extends Controller
+class IndexController extends Controller
 {
 
     public function indexAction()
