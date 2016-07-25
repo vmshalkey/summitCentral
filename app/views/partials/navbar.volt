@@ -16,7 +16,7 @@
 
 			<ul class="nav navbar-nav navbar-right">
 				<li><a href="#">HOME</a></li>
-				<li><a href="{{ link_to("about", "About Us") }}">ABOUT US</a></li>
+				<li><a href="{{ url("about") }}">ABOUT US</a></li>
 				<li class="dropdown">
 					<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">CLIENT INFO</a>
 					<ul class="dropdown-menu">
