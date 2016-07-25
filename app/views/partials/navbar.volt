@@ -15,20 +15,20 @@
 		<div class="collapse navbar-collapse" id="navbar-collapse">
 
 			<ul class="nav navbar-nav navbar-right">
-				<li><a href="#">HOME</a></li>
+				<li><a href="{{ url("index") }}">HOME</a></li>
 				<li><a href="{{ url("about") }}">ABOUT US</a></li>
 				<li class="dropdown">
 					<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">CLIENT INFO</a>
 					<ul class="dropdown-menu">
-						<li><a href="#"><i class="fa fa-angle-right padding-rt-lt"></i> Orientation Manual</a></li>
-						<li><a href="#"><i class="fa fa-angle-right padding-rt-lt"></i>Family Orientation</a></li>
-						<li><a href="#"><i class="fa fa-angle-right padding-rt-lt"></i>FAQs</a></li>
+						<li><a href="{{ url("manual") }}"><i class="fa fa-angle-right padding-rt-lt"></i> Orientation Manual</a></li>
+						<li><a href="{{ url("orientation") }}"><i class="fa fa-angle-right padding-rt-lt"></i>Family Orientation</a></li>
+						<li><a href="{{ url("faqs") }}"><i class="fa fa-angle-right padding-rt-lt"></i>FAQs</a></li>
 					</ul>
 				</li>
-				<li><a href="#">PREA</a></li>
-				<li><a href="#">EMPLOYMENT</a></li>
-				<li><a href="#">RESOURCES</a></li>
-				<li><a href="#">CONTACT US</a></li>
+				<li><a href="{{ url("prea") }}">PREA</a></li>
+				<li><a href="{{ url("employment") }}">EMPLOYMENT</a></li>
+				<li><a href="{{ url("resources") }}">RESOURCES</a></li>
+				<li><a href="{{ url("contact") }}">CONTACT US</a></li>
 			</ul>
 		</div><!-- /.navbar-collapse -->
 	</div><!-- /.container -->
