@@ -41,6 +41,6 @@
 <script type="text/javascript" src="js/custom.js" ></script>
 
 <!-- Google Maps API -->
-<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCW8ROu6lhfd62uOTEKe84R_Gs-6BahGjU&callback=initMap" type="text/javascript"></script>
+<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCc40bJJbzn3FM_oBAjJaXrC22udMDfxzE&callback=initMap" type="text/javascript"></script>
 
 {{ partial("partials/footer") }}
