@@ -27,7 +27,7 @@
 			</div>
 			<div class="box four text-center">
 				<h3 class="white-text">CLIENT INFO</h3>
-				<a href="{{ url("clientinfo") }}"><button class="btn">LEARN MORE</button></a>
+				<a href="{{ url("manual") }}"><button class="btn">LEARN MORE</button></a>
 			</div>
 		</div>
 	</div>
