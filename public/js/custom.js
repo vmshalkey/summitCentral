@@ -1,3 +1,18 @@
+// Collapse Button Toggle
+$( document ).ready(function() {
+    $(".collapse-link").click(function(){
+      if($(this).hasClass('collapsed')){
+        $(this).find("i").addClass("fa-angle-up").removeClass("fa-angle-down");
+        $(this).find(".question").addClass("green-background");
+        $(this).find(".collapse-arrow").addClass("dark-green-background");
+      } else if (!$(this).hasClass('collapsed')) {
+        $(this).find("i").addClass("fa-angle-down").removeClass("fa-angle-up");
+        $(this).find(".question").removeClass("green-background");
+        $(this).find(".collapse-arrow").removeClass("dark-green-background");
+      }
+    });
+});
+
 //google maps
 
 if($("#googleMap").length){

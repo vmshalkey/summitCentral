@@ -131,9 +131,60 @@ header {
 	letter-spacing: 3px;
 }
 
+#manual-background {
+	background-image: url('../img/manual-background.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: top;
+	padding: 50px;
+	margin: 50px;
+	width: 80%;
+	border: solid 1px rgb(112, 121, 72);
+}
+
 header h1 {
 	line-height: 150px;
 	color: white;
+}
+
+.question {
+	background-color: rgb(238,238,238);
+	font-size: 16pt;
+	display: inline-block;
+	height: 60px;
+	padding-top: 18px;
+	padding-left: 30px;
+}
+
+.collapse-arrow {
+	background-color: rgb(238,238,238);
+	color: rgb(134, 143, 87);
+	display: inline-block;
+	height: 60px;
+	padding-top: 5px;
+}
+
+.panel-content {
+	background-color: rgb(238,238,238);
+	padding: 30px;
+	margin-top: 30px;
+	font-size: 14pt;
+	line-height: 30px;
+}
+
+.panel-group {
+	padding-top: 30px !important;
+}
+
+.panel {
+	border-radius: 0 !important;
+	border-bottom: none !important;
+	box-shadow: none !important;
+	-webkit-box-shadow: none !important;
+	border: none !important;
+}
+.panel-body {
+	border: none !important;
 }
 
 .section {
@@ -141,11 +192,58 @@ header h1 {
 	padding-bottom: 30px;
 }
 
+.green-background {
+	background-color: rgb(134, 143, 87) !important;
+	color: white !important;
+}
+
+.dark-green-background {
+	background-color: rgb(112, 121, 72) !important;
+	color: white !important;
+}
+
 .green-text {
 	color: rgb(151,161,102);
 }
+
 .white-text {
 	color: white;
+}
+
+.black-text {
+	color: black;
+}
+
+.gray-text {
+	color: gray;
+}
+
+.italic {
+	font-style: italic;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.green-text-shadow {
+	text-shadow: 2px 2px 2px rgb(151,161,102);
+}
+
+.align-bottom {
+	vertical-align: bottom;
+}
+
+.margin-lf-lt {
+	margin-left: 30px;
+}
+
+.margin-lf-md {
+	margin-left: 50px;
+}
+
+.margin-lf-hvy {
+	margin-left: 100px;
 }
 
 .padding-rt-lt {
@@ -154,6 +252,10 @@ header h1 {
 
 .padding-rt-md {
 	padding-right: 30px;
+}
+.horz-padding-hvy {
+	padding-left: 70px;
+	padding-right: 70px;
 }
 
 a {
@@ -176,23 +278,34 @@ h3 {
 	margin-bottom: 30px;
 }
 
-h4 {
+h4.green {
 	color: rgb(151,161,102);
 	line-height: 40px;
-}
-
-h6 {
-	font-style: italic;
 }
 
 p {
 	font-size: 14pt;
 	margin-top: 30px;
 	margin-bottom: 30px;
+	line-height: 30px;
 }
 
-ul {
-	margin-left: 30px;
+.inc-line-height {
+	line-height: 40px;
+}
+
+.no-spacing {
+	margin-top: 0px !important;
+	margin-bottom: 0px !important;
+}
+
+.less-bottom-spacing {
+	margin-bottom: 10px !important;
+}
+
+li.p-style {
+	font-size: 14pt;
+	line-height: 30px;
 }
 
 li {
@@ -204,19 +317,35 @@ td {
 	font-size: 18pt;
 	padding-top: 7px;
 	padding-bottom: 7px;
+	padding-right: 30px;
 }
 
-.btn {
+.btn.transparent {
 	border-radius: 0;
 	border: solid 1px white;
 	color: white;
 	background-color: transparent;
 }
 
-.btn:hover {
+.btn.transparent:hover {
 	border-radius: 0;
 	border: solid 1px white;
 	background-color: white;
+	color: black;
+}
+
+.btn.green {
+	border-radius: 0;
+	border: solid 2px rgb(112, 121, 72);
+	color: white;
+	background-color: rgb(112, 121, 72);
+}
+
+.btn.green:hover {
+	border-radius: 0;
+	border: solid 2px rgb(112, 121, 72);
+	background-color: white;
+	color: rgb(112, 121, 72);
 }
 
 #googleMap {
@@ -226,10 +355,9 @@ td {
 }
 
 footer {
-	background-color: black;
+	background-color: rgb(224,191,138);
 }
 
 footer h6 {
 	text-align: right;
-	color: gray;
 }

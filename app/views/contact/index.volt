@@ -37,9 +37,6 @@
 	</div>
 </div>
 
-<!-- Custom JavaScript -->
-<script type="text/javascript" src="js/custom.js" ></script>
-
 <!-- Google Maps API -->
 <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCc40bJJbzn3FM_oBAjJaXrC22udMDfxzE&callback=initMap" type="text/javascript"></script>
 

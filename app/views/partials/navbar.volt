@@ -18,14 +18,20 @@
 				<li><a href="{{ url("") }}">HOME</a></li>
 				<li><a href="{{ url("about") }}">ABOUT US</a></li>
 				<li class="dropdown">
-					<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">CLIENT INFO</a>
+					<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">RESIDENT INFO</a>
 					<ul class="dropdown-menu">
-						<li><a href="{{ url("manual") }}"><i class="fa fa-angle-right padding-rt-lt"></i> Orientation Manual</a></li>
-						<li><a href="{{ url("orientation") }}"><i class="fa fa-angle-right padding-rt-lt"></i>Family Orientation</a></li>
-						<li><a href="{{ url("faqs") }}"><i class="fa fa-angle-right padding-rt-lt"></i>FAQs</a></li>
+						<li><a href="{{ url("manual") }}"><i class="fa fa-angle-right padding-rt-lt"></i>Orientation Manual</a></li>
+						<li><a href="{{ url("housing") }}"><i class="fa fa-angle-right padding-rt-lt"></i>Resident Housing</a></li>
+						<li><a href="{{ url("faqs") }}"><i class="fa fa-angle-right padding-rt-lt"></i>FAQS</a></li>
 					</ul>
 				</li>
-				<li><a href="{{ url("prea") }}">PREA</a></li>
+				<li class="dropdown">
+					<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">PREA</a>
+					<ul class="dropdown-menu">
+						<li><a href="{{ url("audit") }}"><i class="fa fa-angle-right padding-rt-lt"></i>PREA Audit 2016</a></li>
+						<li><a href="{{ url("prea") }}"><i class="fa fa-angle-right padding-rt-lt"></i>Volunteer/Contractor PREA Orientation</a></li>
+					</ul>
+				</li>
 				<li><a href="{{ url("employment") }}">EMPLOYMENT</a></li>
 				<li><a href="{{ url("resources") }}">RESOURCES</a></li>
 				<li><a href="{{ url("contact") }}">CONTACT US</a></li>
