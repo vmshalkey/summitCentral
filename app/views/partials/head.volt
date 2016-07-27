@@ -22,8 +22,5 @@
 	<!-- BootStrap: JavaScript -->
 	<script type="text/javascript" src="public/js/bootstrap.js" ></script>
 
-	<!-- Custom JavaScript -->
-	<script type="text/javascript" src="public/js/custom.js" ></script>
-
 </head>
 <body>

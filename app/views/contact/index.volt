@@ -37,7 +37,4 @@
 	</div>
 </div>
 
-<!-- Google Maps API -->
-<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBH_y2gPAeAgQRS6w_qFa_mXW_OKNrThdE&callback=initMap" type="text/javascript"></script>
-
 {{ partial("partials/footer") }}
