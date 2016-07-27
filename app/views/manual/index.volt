@@ -29,12 +29,12 @@
 		</div>
 		<table class="margin-lf-md">
 			<tr>
-				<td class="green-text">LEARN MORE ABOUT FAMILY ORIENTATION:</td>
-				<td><a href=""><button class="btn green btn-lg horz-padding-hvy">HERE</button></a></td>
+				<td class="green-text">LEARN MORE ABOUT RESIDENT HOUSING:</td>
+				<td><a href="{{ url("housing") }}"><button class="btn green btn-lg horz-padding-hvy">HERE</button></a></td>
 			</tr>
 			<tr>
 				<td class="green-text text-right">LEARN MORE ABOUT FAQS:</td>
-				<td><a href=""><button class="btn green btn-lg horz-padding-hvy">HERE</button></a></td>
+				<td><a href="{{ url("faqs") }}"><button class="btn green btn-lg horz-padding-hvy">HERE</button></a></td>
 			</tr>
 		</table>
 	</div>

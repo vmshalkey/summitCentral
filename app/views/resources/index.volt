@@ -10,8 +10,8 @@
 <div class="section">
 	<div class="container">
 		<h1>UNITED STATES PROBATION OFFICES</h1>
-		<h4>Knoxville: (865) 545-4001</h4>
-		<h4>Greenville: (423) 638-8121</h4>
+		<h4 class="green-text">Knoxville: (865) 545-4001</h4>
+		<h4 class="green-text">Greenville: (423) 638-8121</h4>
 
 		<h1>FEDERAL BUREAU OF PRISONS</h1>
 		<p>Michelle Fulgum, Residential Reentry Manager (615) 736-5148</p>
