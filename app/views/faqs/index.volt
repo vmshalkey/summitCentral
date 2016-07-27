@@ -101,7 +101,7 @@
 					<div id="collapse_3" class="panel-collapse collapse">
 						<div class="panel-body">
 							<div class="panel-content">
-								Yes, the first floor has two landline telephones. The 2nd &amp; 3rd floors both have three landline phones. These phones are free to use as long as the call is local. Long distance calls require a calling card. These phones are manned by residents. Midway staff does not answer these phones or take messages for residents. Residents have 24 hours a day access to these phones. See <a href="manual.html">“Resident Info”</a> section for phone numbers.
+								Yes, the first floor has two landline telephones. The 2nd &amp; 3rd floors both have three landline phones. These phones are free to use as long as the call is local. Long distance calls require a calling card. These phones are manned by residents. Midway staff does not answer these phones or take messages for residents. Residents have 24 hours a day access to these phones. See <a href="{{ url("manual") }}">“Resident Info”</a> section for phone numbers.
 							</div>
 						</div>
 					</div>
