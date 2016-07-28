@@ -46,7 +46,7 @@ body {
 }
 
 /*XS screen*/
-@media only screen and (max-width: 543px) {
+@media only screen and (max-width: 768px) {
 	.nav .open > a:after{
 		border: none;
 	}
