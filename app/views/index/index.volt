@@ -3,9 +3,16 @@
 {{ partial("partials/navbar") }}
 
 <div id="home-content">
-	<div id="home-background-top">
+	<div id="home-background-top" class="hidden-xs">
 		<div class="container">
 			<div id="home-section-top" class="col-xs-12 col-sm-6 col-md-6 col-lg-6 col-xl-6">
+				<h1>THE PATH TO CHANGE</h1>
+			</div>
+		</div>
+	</div>
+	<div id="home-background-top-xs" class="visible-xs">
+		<div class="container">
+			<div id="home-section-top-xs" class="text-center">
 				<h1>THE PATH TO CHANGE</h1>
 			</div>
 		</div>
