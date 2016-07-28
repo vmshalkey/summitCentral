@@ -5,7 +5,7 @@
 	<title>Midway</title>
 
 	<!-- jQuery -->
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+	<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 
 	<!-- BootStrap: CSS -->
 	<link rel="stylesheet" type="text/css" href="public/css/bootstrap.css">

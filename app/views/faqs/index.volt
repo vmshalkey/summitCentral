@@ -346,7 +346,7 @@
         				<h4 class="panel-title">
                             <a class="collapse-link collapsed" data-toggle="collapse" href="#collapse_11">
                                 <div class="question col-md-11">
-                                	<span>Do I have to work and pay subsitence?</span>
+                                	<span>Do I have to work and pay subsistence?</span>
                                 </div>
                                 <div class="collapse-arrow col-md-1 text-center">
                                     <i class="fa fa-3x fa-angle-down" aria-hidden="true"></i>
