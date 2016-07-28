@@ -83,9 +83,24 @@ header {
 	font-weight: bold;
 }
 
+/*Quick Links on Home Page*/
+
 #home-quick-links {
 	position: absolute;
 	top: 625px;
+	width: 100%;
+}
+
+#home-quick-links-sm {
+	position: absolute;
+	top: 580px;
+	width: 100%;
+}
+
+#home-quick-links-xs {
+	position: absolute;
+	top: 625px;
+	left: 10%;
 	width: 100%;
 }
 
@@ -97,21 +112,42 @@ header {
 	margin-right: -3px;
 }
 
-#home-quick-links .box.one {
+#home-quick-links-sm .box {
+	width: 49%;
+	height: 150px;
+	padding-top: 0px;
+	display: inline-block;
+	margin-right: -3px;
+}
+
+#home-quick-links-xs .box {
+	width: 80%;
+	padding-top: 7px;
+	padding-bottom: 7px;
+	display: block;
+}
+
+#home-quick-links-xs .btn {
+	border-color: transparent !important;
+}
+
+#home-quick-links .box.one, #home-quick-links-sm .box.one, #home-quick-links-xs .box.one {
 	background-color: rgb(168, 178, 120);
 }
 
-#home-quick-links .box.two {
+#home-quick-links .box.two, #home-quick-links-sm .box.two, #home-quick-links-xs .box.two {
 	background-color: rgb(151, 161, 102);
 }
 
-#home-quick-links .box.three {
+#home-quick-links .box.three, #home-quick-links-sm .box.three, #home-quick-links-xs .box.three {
 	background-color: rgb(134, 143, 87);
 }
 
-#home-quick-links .box.four {
+#home-quick-links .box.four, #home-quick-links-sm .box.four, #home-quick-links-xs .box.four {
 	background-color: rgb(112, 121, 72);
 }
+
+/*END Quick Links on Home Page*/
 
 #home-background-bottom {
 	background-image: url('../img/home-background-bottom.jpg');
