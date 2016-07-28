@@ -99,9 +99,10 @@ header {
 
 #home-quick-links-xs {
 	position: absolute;
-	top: 600px;
+	top: 625px;
 	left: 10%;
 	width: 100%;
+	z-index: 1000;
 }
 
 #home-quick-links .box {
