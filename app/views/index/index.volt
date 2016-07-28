@@ -10,7 +10,7 @@
 			</div>
 		</div>
 	</div>
-	<div id="home-quick-links">
+	<div id="home-quick-links" class="hidden-xs hidden-sm">
 		<div class="container">
 			<div class="box one text-center">
 				<h3 class="white-text">ABOUT US</h3>
