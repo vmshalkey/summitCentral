@@ -80,7 +80,7 @@
 	</div>
 	<div id="home-background-bottom">
 		<div class="container">
-			<div id="home-section-bottom" class="col-xs-10 col-sm-10 col-md-6 col-lg-6 col-xl-6">
+			<div id="home-section-bottom" class="col-xs-12 col-sm-10 col-md-6 col-lg-6 col-xl-6">
 				<h1>OUR <span class="green-text">MISSION</span></h1>
 				<p>Is to assist individuals who have made a commitment to remain sober, develop an improved lifestyle and become contributing members of the community. We operate on the basic two-point philosophy: that individuals are responsible for their behavior, and they have the ability to change their behavior.</p>
 			</div>
