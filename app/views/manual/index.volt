@@ -19,7 +19,7 @@
 			<table class="hidden-xs hidden-sm">
 				<tr>
 					<td><h1 class="white-text green-text-shadow">VIEW RESIDENT ORIENTATION MANUAL HERE</h1></td>
-					<td><a href=""><button class="btn green btn-lg">DOWNLOAD NOW</button></a></td>
+					<td><a href="files/orientation_manual.pdf" download><button class="btn green btn-lg">DOWNLOAD NOW</button></a></td>
 				</tr>
 			</table>
 			<div class="visible-xs visible-sm text-center">
