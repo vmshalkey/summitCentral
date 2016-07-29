@@ -54,12 +54,14 @@
       				<div class="panel-heading">
         				<h4 class="panel-title">
                             <a class="collapse-link collapsed" data-toggle="collapse" href="#collapse_2">
-                                <div class="question col-xs-10 col-sm-10 col-md-11 col-lg-11 col-xl-11">
-                                	<span>What is the cell phone policy?</span>
-                                </div>
-                                <div class="collapse-arrow col-xs-2 col-sm-2 col-md-1 col-lg-1 col-xl-1 text-center">
-                                    <i class="fa fa-3x fa-angle-down" aria-hidden="true"></i>
-                                </div>
+	                            <div class="row collapse-row">
+	                                <div class="question col-xs-10 col-sm-10 col-md-11 col-lg-11 col-xl-11">
+	                                	<span>What is the cell phone policy?</span>
+	                                </div>
+	                                <div class="collapse-arrow col-xs-2 col-sm-2 col-md-1 col-lg-1 col-xl-1 text-center">
+	                                    <i class="fa fa-3x fa-angle-down" aria-hidden="true"></i>
+	                                </div>
+	                            </div>
                             </a>
                         </h4>
 					</div>
@@ -91,12 +93,14 @@
       				<div class="panel-heading">
         				<h4 class="panel-title">
                             <a class="collapse-link collapsed" data-toggle="collapse" href="#collapse_3">
-                                <div class="question col-xs-10 col-sm-10 col-md-11 col-lg-11 col-xl-11">
-                                	<span>Will I have access to a landline phone?</span>
-                                </div>
-                                <div class="collapse-arrow col-xs-2 col-sm-2 col-md-1 col-lg-1 col-xl-1 text-center">
-                                    <i class="fa fa-3x fa-angle-down" aria-hidden="true"></i>
-                                </div>
+	                            <div class="row collapse-row">
+	                                <div class="question col-xs-10 col-sm-10 col-md-11 col-lg-11 col-xl-11">
+	                                	<span>Will I have access to a landline phone?</span>
+	                                </div>
+	                                <div class="collapse-arrow col-xs-2 col-sm-2 col-md-1 col-lg-1 col-xl-1 text-center">
+	                                    <i class="fa fa-3x fa-angle-down" aria-hidden="true"></i>
+	                                </div>
+	                            </div>
                             </a>
                         </h4>
 					</div>
@@ -117,12 +121,14 @@
       				<div class="panel-heading">
         				<h4 class="panel-title">
                             <a class="collapse-link collapsed" data-toggle="collapse" href="#collapse_4">
-                                <div class="question col-xs-10 col-sm-10 col-md-11 col-lg-11 col-xl-11">
-                                	<span>Can a resident seek driving permission during their stay?</span>
-                                </div>
-                                <div class="collapse-arrow col-xs-2 col-sm-2 col-md-1 col-lg-1 col-xl-1 text-center">
-                                    <i class="fa fa-3x fa-angle-down" aria-hidden="true"></i>
-                                </div>
+	                            <div class="row collapse-row">
+	                                <div class="question col-xs-10 col-sm-10 col-md-11 col-lg-11 col-xl-11">
+	                                	<span>Can a resident seek driving permission during their stay?</span>
+	                                </div>
+	                                <div class="collapse-arrow col-xs-2 col-sm-2 col-md-1 col-lg-1 col-xl-1 text-center">
+	                                    <i class="fa fa-3x fa-angle-down" aria-hidden="true"></i>
+	                                </div>
+	                            </div>
                             </a>
                         </h4>
 					</div>
@@ -149,12 +155,14 @@
       				<div class="panel-heading">
         				<h4 class="panel-title">
                             <a class="collapse-link collapsed" data-toggle="collapse" href="#collapse_5">
-                                <div class="question col-xs-10 col-sm-10 col-md-11 col-lg-11 col-xl-11">
-                                	<span>Where can my family and I park?</span>
-                                </div>
-                                <div class="collapse-arrow col-xs-2 col-sm-2 col-md-1 col-lg-1 col-xl-1 text-center">
-                                    <i class="fa fa-3x fa-angle-down" aria-hidden="true"></i>
-                                </div>
+	                            <div class="row collapse-row">
+	                                <div class="question col-xs-10 col-sm-10 col-md-11 col-lg-11 col-xl-11">
+	                                	<span>Where can my family and I park?</span>
+	                                </div>
+	                                <div class="collapse-arrow col-xs-2 col-sm-2 col-md-1 col-lg-1 col-xl-1 text-center">
+	                                    <i class="fa fa-3x fa-angle-down" aria-hidden="true"></i>
+	                                </div>
+	                            </div>
                             </a>
                         </h4>
 					</div>
@@ -175,12 +183,14 @@
       				<div class="panel-heading">
         				<h4 class="panel-title">
                             <a class="collapse-link collapsed" data-toggle="collapse" href="#collapse_6">
-                                <div class="question col-xs-10 col-sm-10 col-md-11 col-lg-11 col-xl-11">
-                                	<span>How do I receive mail?</span>
-                                </div>
-                                <div class="collapse-arrow col-xs-2 col-sm-2 col-md-1 col-lg-1 col-xl-1 text-center">
-                                    <i class="fa fa-3x fa-angle-down" aria-hidden="true"></i>
-                                </div>
+	                            <div class="row collapse-row">
+	                                <div class="question col-xs-10 col-sm-10 col-md-11 col-lg-11 col-xl-11">
+	                                	<span>How do I receive mail?</span>
+	                                </div>
+	                                <div class="collapse-arrow col-xs-2 col-sm-2 col-md-1 col-lg-1 col-xl-1 text-center">
+	                                    <i class="fa fa-3x fa-angle-down" aria-hidden="true"></i>
+	                                </div>
+	                            </div>
                             </a>
                         </h4>
 					</div>
@@ -203,12 +213,14 @@
       				<div class="panel-heading">
         				<h4 class="panel-title">
                             <a class="collapse-link collapsed" data-toggle="collapse" href="#collapse_7">
-                                <div class="question col-xs-10 col-sm-10 col-md-11 col-lg-11 col-xl-11">
-                                	<span>Will my vehicle &amp; facility be searched?</span>
-                                </div>
-                                <div class="collapse-arrow col-xs-2 col-sm-2 col-md-1 col-lg-1 col-xl-1 text-center">
-                                    <i class="fa fa-3x fa-angle-down" aria-hidden="true"></i>
-                                </div>
+	                            <div class="row collapse-row">
+	                                <div class="question col-xs-10 col-sm-10 col-md-11 col-lg-11 col-xl-11">
+	                                	<span>Will my vehicle &amp; facility be searched?</span>
+	                                </div>
+	                                <div class="collapse-arrow col-xs-2 col-sm-2 col-md-1 col-lg-1 col-xl-1 text-center">
+	                                    <i class="fa fa-3x fa-angle-down" aria-hidden="true"></i>
+	                                </div>
+	                            </div>
                             </a>
                         </h4>
 					</div>
@@ -229,12 +241,14 @@
       				<div class="panel-heading">
         				<h4 class="panel-title">
                             <a class="collapse-link collapsed" data-toggle="collapse" href="#collapse_8">
-                                <div class="question col-xs-10 col-sm-10 col-md-11 col-lg-11 col-xl-11">
-                                	<span>When can I go to Home Confinement or Home Passes?</span>
-                                </div>
-                                <div class="collapse-arrow col-xs-2 col-sm-2 col-md-1 col-lg-1 col-xl-1 text-center">
-                                    <i class="fa fa-3x fa-angle-down" aria-hidden="true"></i>
-                                </div>
+	                            <div class="row collapse-row">
+	                                <div class="question col-xs-10 col-sm-10 col-md-11 col-lg-11 col-xl-11">
+	                                	<span>When can I go to Home Confinement or Home Passes?</span>
+	                                </div>
+	                                <div class="collapse-arrow col-xs-2 col-sm-2 col-md-1 col-lg-1 col-xl-1 text-center">
+	                                    <i class="fa fa-3x fa-angle-down" aria-hidden="true"></i>
+	                                </div>
+	                            </div>
                             </a>
                         </h4>
 					</div>
@@ -277,12 +291,14 @@
       				<div class="panel-heading">
         				<h4 class="panel-title">
                             <a class="collapse-link collapsed" data-toggle="collapse" href="#collapse_9">
-                                <div class="question col-xs-10 col-sm-10 col-md-11 col-lg-11 col-xl-11">
-                                	<span>When can I begin attending Religious Services?</span>
-                                </div>
-                                <div class="collapse-arrow col-xs-2 col-sm-2 col-md-1 col-lg-1 col-xl-1 text-center">
-                                    <i class="fa fa-3x fa-angle-down" aria-hidden="true"></i>
-                                </div>
+	                            <div class="row collapse-row">
+	                                <div class="question col-xs-10 col-sm-10 col-md-11 col-lg-11 col-xl-11">
+	                                	<span>When can I begin attending Religious Services?</span>
+	                                </div>
+	                                <div class="collapse-arrow col-xs-2 col-sm-2 col-md-1 col-lg-1 col-xl-1 text-center">
+	                                    <i class="fa fa-3x fa-angle-down" aria-hidden="true"></i>
+	                                </div>
+	                            </div>
                             </a>
                         </h4>
 					</div>
@@ -303,12 +319,14 @@
       				<div class="panel-heading">
         				<h4 class="panel-title">
                             <a class="collapse-link collapsed" data-toggle="collapse" href="#collapse_10">
-                                <div class="question col-xs-10 col-sm-10 col-md-11 col-lg-11 col-xl-11">
-                                	<span>What are the guidelines for personal items?</span>
-                                </div>
-                                <div class="collapse-arrow col-xs-2 col-sm-2 col-md-1 col-lg-1 col-xl-1 text-center">
-                                    <i class="fa fa-3x fa-angle-down" aria-hidden="true"></i>
-                                </div>
+	                            <div class="row collapse-row">
+	                                <div class="question col-xs-10 col-sm-10 col-md-11 col-lg-11 col-xl-11">
+	                                	<span>What are the guidelines for personal items?</span>
+	                                </div>
+	                                <div class="collapse-arrow col-xs-2 col-sm-2 col-md-1 col-lg-1 col-xl-1 text-center">
+	                                    <i class="fa fa-3x fa-angle-down" aria-hidden="true"></i>
+	                                </div>
+	                            </div>
                             </a>
                         </h4>
 					</div>
@@ -347,12 +365,14 @@
       				<div class="panel-heading">
         				<h4 class="panel-title">
                             <a class="collapse-link collapsed" data-toggle="collapse" href="#collapse_11">
-                                <div class="question col-xs-10 col-sm-10 col-md-11 col-lg-11 col-xl-11">
-                                	<span>Do I have to work and pay subsistence?</span>
-                                </div>
-                                <div class="collapse-arrow col-xs-2 col-sm-2 col-md-1 col-lg-1 col-xl-1 text-center">
-                                    <i class="fa fa-3x fa-angle-down" aria-hidden="true"></i>
-                                </div>
+	                            <div class="row collapse-row">
+	                                <div class="question col-xs-10 col-sm-10 col-md-11 col-lg-11 col-xl-11">
+	                                	<span>Do I have to work and pay subsistence?</span>
+	                                </div>
+	                                <div class="collapse-arrow col-xs-2 col-sm-2 col-md-1 col-lg-1 col-xl-1 text-center">
+	                                    <i class="fa fa-3x fa-angle-down" aria-hidden="true"></i>
+	                                </div>
+	                            </div>
                             </a>
                         </h4>
 					</div>
@@ -373,12 +393,14 @@
       				<div class="panel-heading">
         				<h4 class="panel-title">
                             <a class="collapse-link collapsed" data-toggle="collapse" href="#collapse_12">
-                                <div class="question col-xs-10 col-sm-10 col-md-11 col-lg-11 col-xl-11">
-                                	<span>Can I have a relationship with another resident?</span>
-                                </div>
-                                <div class="collapse-arrow col-xs-2 col-sm-2 col-md-1 col-lg-1 col-xl-1 text-center">
-                                    <i class="fa fa-3x fa-angle-down" aria-hidden="true"></i>
-                                </div>
+	                            <div class="row collapse-row">
+	                                <div class="question col-xs-10 col-sm-10 col-md-11 col-lg-11 col-xl-11">
+	                                	<span>Can I have a relationship with another resident?</span>
+	                                </div>
+	                                <div class="collapse-arrow col-xs-2 col-sm-2 col-md-1 col-lg-1 col-xl-1 text-center">
+	                                    <i class="fa fa-3x fa-angle-down" aria-hidden="true"></i>
+	                                </div>
+	                            </div>
                             </a>
                         </h4>
 					</div>
@@ -399,12 +421,14 @@
       				<div class="panel-heading">
         				<h4 class="panel-title">
                             <a class="collapse-link collapsed" data-toggle="collapse" href="#collapse_13">
-                                <div class="question col-xs-10 col-sm-10 col-md-11 col-lg-11 col-xl-11">
-                                	<span>Will I have access to work out?</span>
-                                </div>
-                                <div class="collapse-arrow col-xs-2 col-sm-2 col-md-1 col-lg-1 col-xl-1 text-center">
-                                    <i class="fa fa-3x fa-angle-down" aria-hidden="true"></i>
-                                </div>
+	                            <div class="row collapse-row">
+	                                <div class="question col-xs-10 col-sm-10 col-md-11 col-lg-11 col-xl-11">
+	                                	<span>Will I have access to work out?</span>
+	                                </div>
+	                                <div class="collapse-arrow col-xs-2 col-sm-2 col-md-1 col-lg-1 col-xl-1 text-center">
+	                                    <i class="fa fa-3x fa-angle-down" aria-hidden="true"></i>
+	                                </div>
+	                            </div>
                             </a>
                         </h4>
 					</div>
@@ -425,12 +449,14 @@
       				<div class="panel-heading">
         				<h4 class="panel-title">
                             <a class="collapse-link collapsed" data-toggle="collapse" href="#collapse_14">
-                                <div class="question col-xs-10 col-sm-10 col-md-11 col-lg-11 col-xl-11">
-                                	<span>Is Midway a co-ed facility?</span>
-                                </div>
-                                <div class="collapse-arrow col-xs-2 col-sm-2 col-md-1 col-lg-1 col-xl-1 text-center">
-                                    <i class="fa fa-3x fa-angle-down" aria-hidden="true"></i>
-                                </div>
+	                            <div class="row collapse-row">
+	                                <div class="question col-xs-10 col-sm-10 col-md-11 col-lg-11 col-xl-11">
+	                                	<span>Is Midway a co-ed facility?</span>
+	                                </div>
+	                                <div class="collapse-arrow col-xs-2 col-sm-2 col-md-1 col-lg-1 col-xl-1 text-center">
+	                                    <i class="fa fa-3x fa-angle-down" aria-hidden="true"></i>
+	                                </div>
+	                            </div>
                             </a>
                         </h4>
 					</div>
@@ -451,12 +477,14 @@
       				<div class="panel-heading">
         				<h4 class="panel-title">
                             <a class="collapse-link collapsed" data-toggle="collapse" href="#collapse_15">
-                                <div class="question col-xs-10 col-sm-10 col-md-11 col-lg-11 col-xl-11">
-                                	<span>Can I go where ever I want?</span>
-                                </div>
-                                <div class="collapse-arrow col-xs-2 col-sm-2 col-md-1 col-lg-1 col-xl-1 text-center">
-                                    <i class="fa fa-3x fa-angle-down" aria-hidden="true"></i>
-                                </div>
+	                            <div class="row collapse-row">
+	                                <div class="question col-xs-10 col-sm-10 col-md-11 col-lg-11 col-xl-11">
+	                                	<span>Can I go where ever I want?</span>
+	                                </div>
+	                                <div class="collapse-arrow col-xs-2 col-sm-2 col-md-1 col-lg-1 col-xl-1 text-center">
+	                                    <i class="fa fa-3x fa-angle-down" aria-hidden="true"></i>
+	                                </div>
+	                            </div>
                             </a>
                         </h4>
 					</div>
@@ -478,12 +506,14 @@
       				<div class="panel-heading">
         				<h4 class="panel-title">
                             <a class="collapse-link collapsed" data-toggle="collapse" href="#collapse_16">
-                                <div class="question col-xs-10 col-sm-10 col-md-11 col-lg-11 col-xl-11">
-                                	<span>What happens when I enter the building?</span>
-                                </div>
-                                <div class="collapse-arrow col-xs-2 col-sm-2 col-md-1 col-lg-1 col-xl-1 text-center">
-                                    <i class="fa fa-3x fa-angle-down" aria-hidden="true"></i>
-                                </div>
+	                            <div class="row collapse-row">
+	                                <div class="question col-xs-10 col-sm-10 col-md-11 col-lg-11 col-xl-11">
+	                                	<span>What happens when I enter the building?</span>
+	                                </div>
+	                                <div class="collapse-arrow col-xs-2 col-sm-2 col-md-1 col-lg-1 col-xl-1 text-center">
+	                                    <i class="fa fa-3x fa-angle-down" aria-hidden="true"></i>
+	                                </div>
+	                            </div>
                             </a>
                         </h4>
 					</div>
@@ -504,12 +534,14 @@
       				<div class="panel-heading">
         				<h4 class="panel-title">
                             <a class="collapse-link collapsed" data-toggle="collapse" href="#collapse_17">
-                                <div class="question col-xs-10 col-sm-10 col-md-11 col-lg-11 col-xl-11">
-                                	<span>Will I have access to laundry facilities?</span>
-                                </div>
-                                <div class="collapse-arrow col-xs-2 col-sm-2 col-md-1 col-lg-1 col-xl-1 text-center">
-                                    <i class="fa fa-3x fa-angle-down" aria-hidden="true"></i>
-                                </div>
+	                            <div class="row collapse-row">
+	                                <div class="question col-xs-10 col-sm-10 col-md-11 col-lg-11 col-xl-11">
+	                                	<span>Will I have access to laundry facilities?</span>
+	                                </div>
+	                                <div class="collapse-arrow col-xs-2 col-sm-2 col-md-1 col-lg-1 col-xl-1 text-center">
+	                                    <i class="fa fa-3x fa-angle-down" aria-hidden="true"></i>
+	                                </div>
+	                            </div>
                             </a>
                         </h4>
 					</div>
@@ -530,12 +562,14 @@
       				<div class="panel-heading">
         				<h4 class="panel-title">
                             <a class="collapse-link collapsed" data-toggle="collapse" href="#collapse_18">
-                                <div class="question col-xs-10 col-sm-10 col-md-11 col-lg-11 col-xl-11">
-                                	<span>Can I bring my own bed linens?</span>
-                                </div>
-                                <div class="collapse-arrow col-xs-2 col-sm-2 col-md-1 col-lg-1 col-xl-1 text-center">
-                                    <i class="fa fa-3x fa-angle-down" aria-hidden="true"></i>
-                                </div>
+	                            <div class="row collapse-row">
+	                                <div class="question col-xs-10 col-sm-10 col-md-11 col-lg-11 col-xl-11">
+	                                	<span>Can I bring my own bed linens?</span>
+	                                </div>
+	                                <div class="collapse-arrow col-xs-2 col-sm-2 col-md-1 col-lg-1 col-xl-1 text-center">
+	                                    <i class="fa fa-3x fa-angle-down" aria-hidden="true"></i>
+	                                </div>
+	                            </div>
                             </a>
                         </h4>
 					</div>
@@ -556,12 +590,14 @@
       				<div class="panel-heading">
         				<h4 class="panel-title">
                             <a class="collapse-link collapsed" data-toggle="collapse" href="#collapse_19">
-                                <div class="question col-xs-10 col-sm-10 col-md-11 col-lg-11 col-xl-11">
-                                	<span>What is the smoking policy?</span>
-                                </div>
-                                <div class="collapse-arrow col-xs-2 col-sm-2 col-md-1 col-lg-1 col-xl-1 text-center">
-                                    <i class="fa fa-3x fa-angle-down" aria-hidden="true"></i>
-                                </div>
+	                            <div class="row collapse-row">
+	                                <div class="question col-xs-10 col-sm-10 col-md-11 col-lg-11 col-xl-11">
+	                                	<span>What is the smoking policy?</span>
+	                                </div>
+	                                <div class="collapse-arrow col-xs-2 col-sm-2 col-md-1 col-lg-1 col-xl-1 text-center">
+	                                    <i class="fa fa-3x fa-angle-down" aria-hidden="true"></i>
+	                                </div>
+	                            </div>
                             </a>
                         </h4>
 					</div>
@@ -594,12 +630,14 @@
       				<div class="panel-heading">
         				<h4 class="panel-title">
                             <a class="collapse-link collapsed" data-toggle="collapse" href="#collapse_20">
-                                <div class="question col-xs-10 col-sm-10 col-md-11 col-lg-11 col-xl-11">
-                                	<span>Can residents visit other rooms or go to a floor they are not assigned to?</span>
-                                </div>
-                                <div class="collapse-arrow col-xs-2 col-sm-2 col-md-1 col-lg-1 col-xl-1 text-center">
-                                    <i class="fa fa-3x fa-angle-down" aria-hidden="true"></i>
-                                </div>
+	                            <div class="row collapse-row">
+	                                <div class="question col-xs-10 col-sm-10 col-md-11 col-lg-11 col-xl-11">
+	                                	<span>Can residents visit other rooms or go to a floor they are not assigned to?</span>
+	                                </div>
+	                                <div class="collapse-arrow col-xs-2 col-sm-2 col-md-1 col-lg-1 col-xl-1 text-center">
+	                                    <i class="fa fa-3x fa-angle-down" aria-hidden="true"></i>
+	                                </div>
+	                            </div>
                             </a>
                         </h4>
 					</div>
