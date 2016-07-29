@@ -6,8 +6,8 @@
 				<span class="sr-only">Toggle navigation</span>
 				<i class="fa fa-bars fa-3x" aria-hidden="true"></i>
 			</button>
-			<a class="navbar-brand" href="#">
-				<img src="img/midway-logo-black.png">
+			<a class="navbar-brand" href="{{ url("") }}">
+				<img class="img-responsive" src="img/midway-logo-black.png">
 			</a>
 		</div>
 
