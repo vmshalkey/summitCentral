@@ -18,7 +18,7 @@
 		<p>701 Broadway Room, 124 Nashville, TN 37203</p>
 
 		<h1>SCHEDULE A TOUR FOR MIDWAY REHABILITATION CENTER</h1>
-		<p>If you would like to arrange a tour, send an email to <a href="mailto: resources@midway.com">resources@midway.com</a></p>
+		<p>If you would like to arrange a tour, send an email to <a href="mailto:resources@midway.com">resources@midway.com</a></p>
 	</div>
 </div>
 
