@@ -29,7 +29,7 @@
 			</div>
 			<table class="margin-lf-md hidden-xs hidden-sm">
 				<tr>
-					<td class="green-text text-right">LEARN MORE ABOUT FAMILY ORIENTATION:</td>
+					<td class="green-text text-right">LEARN MORE ABOUT RESIDENT HOUSING:</td>
 					<td><a href="{{ url("housing") }}"><button class="btn green btn-lg horz-padding-hvy">HERE</button></a></td>
 				</tr>
 				<tr>
@@ -38,7 +38,7 @@
 				</tr>
 			</table>
 			<div class="margin-lf-md visible-xs visible-sm">
-				<h3>LEARN MORE ABOUT FAMILY ORIENTATION</h3>
+				<h3>LEARN MORE ABOUT RESIDENT HOUSING</h3>
 				<a href=""><button class="btn green btn-lg horz-padding-hvy">HERE</button></a>
 				<h3>LEARN MORE ABOUT FAQS</h3>
 				<button class="btn green btn-lg horz-padding-hvy">HERE</button></a>
