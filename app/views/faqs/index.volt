@@ -29,7 +29,7 @@
 					</div>
 					<div id="collapse_1" class="panel-collapse collapse">
 						<div class="panel-body">
-							<div class="panel-content">
+							<div class="row panel-content">
 								Visitation is Wednesday – Friday, 6 pm – 9 pm, and Saturday - Sunday 1 pm – 4 pm &amp; 6pm – 9pm Eastern Standard Time
 								<br>The resident creates his own visitors list. There is not an approval process, so visitation can begin immediately after arrival.
 								<ul>
@@ -67,7 +67,7 @@
 					</div>
 					<div id="collapse_2" class="panel-collapse collapse">
 						<div class="panel-body">
-							<div class="panel-content">
+							<div class="row panel-content">
 								Residents are allowed to have a cell phone during their stay at Midway Rehabilitation Center in accordance with the below guidelines.
 								<ol>
 									<li>There is to be no client-to client contact. This includes calls, text messages, emails, photos or other contact.</li>
@@ -106,7 +106,7 @@
 					</div>
 					<div id="collapse_3" class="panel-collapse collapse">
 						<div class="panel-body">
-							<div class="panel-content">
+							<div class="row panel-content">
 								Yes, the first floor has two landline telephones. The 2nd &amp; 3rd floors both have three landline phones. These phones are free to use as long as the call is local. Long distance calls require a calling card. These phones are manned by residents. Midway staff does not answer these phones or take messages for residents. Residents have 24 hours a day access to these phones. See <a href="{{ url("manual") }}">“Resident Info”</a> section for phone numbers.
 							</div>
 						</div>
@@ -134,7 +134,7 @@
 					</div>
 					<div id="collapse_4" class="panel-collapse collapse">
 						<div class="panel-body">
-							<div class="panel-content">
+							<div class="row panel-content">
 								Yes, as long as they meet the following criteria:
 								<ul>
 									<li>Valid Driver’s License</li>
@@ -168,7 +168,7 @@
 					</div>
 					<div id="collapse_5" class="panel-collapse collapse">
 						<div class="panel-body">
-							<div class="panel-content">
+							<div class="row panel-content">
 								Midway’s parking lot is located at the corner of 5th &amp; Myrtle – across the street from the facility. DO NOT park behind the facility. Parking on the street is permissible.
 							</div>
 						</div>
@@ -196,7 +196,7 @@
 					</div>
 					<div id="collapse_6" class="panel-collapse collapse">
 						<div class="panel-body">
-							<div class="panel-content">
+							<div class="row panel-content">
 								Incoming mail should be addressed to the resident at the address of:
 								<br>1515 E Magnolia Ave., Knoxville, TN 37917
 								<br>Incoming mail will be opened in front of staff.
@@ -226,7 +226,7 @@
 					</div>
 					<div id="collapse_7" class="panel-collapse collapse">
 						<div class="panel-body">
-							<div class="panel-content">
+							<div class="row panel-content">
 								Midway staff will conduct vehicle and facility searches at least monthly to ensure that there is no contraband.
 							</div>
 						</div>
@@ -254,7 +254,7 @@
 					</div>
 					<div id="collapse_8" class="panel-collapse collapse">
 						<div class="panel-body">
-							<div class="panel-content">
+							<div class="row panel-content">
 								Residents who are classified as public law, currently on supervision, will have restricted privileges and will not be eligible for passes, personal time or home confinement.
 								<br>Residents who enter Midway as a Direct Home Confinement Placement need to understand it could be up to 14 days or longer before you are placed on home confinement. Certain guidelines have to be met prior to your placement in this status, and the time will vary depending on the situation.
 								<br>All residents who are approved for home confinement will be placed on electronic monitoring.
@@ -304,7 +304,7 @@
 					</div>
 					<div id="collapse_9" class="panel-collapse collapse">
 						<div class="panel-body">
-							<div class="panel-content">
+							<div class="row panel-content">
 								Residents are given three hours per week to attend a religious service of their choosing, regardless of the level they are on, except those residents on Level 1 who are restricted to the facility. Residents must provide where they are going, including address and phone number. Residents must know the hours they wish to sign out.  This information is given to your primary counselor and will be verified.
 							</div>
 						</div>
@@ -332,7 +332,7 @@
 					</div>
 					<div id="collapse_10" class="panel-collapse collapse">
 						<div class="panel-body">
-							<div class="panel-content">
+							<div class="row panel-content">
 								Residents entering the program will not be allowed to leave the facility until they complete the intake process with their primary counselor. This could take 1 – 2 days, before accessing the community to retrieve personal items. Family members can bring you some essentials upon your arrival or with them if they transport you from the federal facility to the halfway house.
 								<br>Residents will be issued one towel and one wash cloth. Residents are allowed to bring extra towels and wash cloths as long as they can properly store them in their allotted space.
 								<br>Residents will be issued a combination lock for their storage locker. NO OUTSIDE LOCKS ARE ALLOWED.
@@ -378,7 +378,7 @@
 					</div>
 					<div id="collapse_11" class="panel-collapse collapse">
 						<div class="panel-body">
-							<div class="panel-content">
+							<div class="row panel-content">
 								All residents are expected to seek employment unless medically excused.  All residents will pay subsistence, which is 25% of their gross pay. There are no exceptions to this rule, unless the resident is granted a reduction of subsistence by the Bureau of Prisons. All requests are done by the primary counselor and are based on documented need.
 							</div>
 						</div>
@@ -406,7 +406,7 @@
 					</div>
 					<div id="collapse_12" class="panel-collapse collapse">
 						<div class="panel-body">
-							<div class="panel-content">
+							<div class="row panel-content">
 								Residents are not allowed to be in relationships with one another.  Relationships are strictly forbidden between residents. This violates the PREA standards and will result in both parties receiving incident reports and possible removal from the program.
 							</div>
 						</div>
@@ -434,7 +434,7 @@
 					</div>
 					<div id="collapse_13" class="panel-collapse collapse">
 						<div class="panel-body">
-							<div class="panel-content">
+							<div class="row panel-content">
 								Residents have access to a workout area in the basement of the facility that is open during specific times.
 							</div>
 						</div>
@@ -462,7 +462,7 @@
 					</div>
 					<div id="collapse_14" class="panel-collapse collapse">
 						<div class="panel-body">
-							<div class="panel-content">
+							<div class="row panel-content">
 								Yes. All female residents reside on the 1st floor. Male residents reside on the 2nd and 3rd floors. There is to be no interaction between male and female residents outside of approved Midway activities.
 							</div>
 						</div>
@@ -490,7 +490,7 @@
 					</div>
 					<div id="collapse_15" class="panel-collapse collapse">
 						<div class="panel-body">
-							<div class="panel-content">
+							<div class="row panel-content">
 								Accountability is of the utmost importance and residents must be accountable at all times. Go exactly where you sign out to, and return within the appropriate time frame. If you are determined to be unaccountable, an incident report will be issued and sanctions will be implemented.
 								<br>Residents are only allowed to go to public locations, approved job sites, church, and approved pass sites.
 							</div>
@@ -519,7 +519,7 @@
 					</div>
 					<div id="collapse_16" class="panel-collapse collapse">
 						<div class="panel-body">
-							<div class="panel-content">
+							<div class="row panel-content">
 								Each time a resident enters the building they will be given an alcohol sensor, a pat down, and/ or wanded depending on the gender working. All personal property will be searched. Contraband will be confiscated and destroyed.
 							</div>
 						</div>
@@ -547,7 +547,7 @@
 					</div>
 					<div id="collapse_17" class="panel-collapse collapse">
 						<div class="panel-body">
-							<div class="panel-content">
+							<div class="row panel-content">
 								Residents will have access to free washing machines and dryers. Midway does provide laundry detergent that residents may use. Residents are allowed to have their own laundry detergent, but no bleach is allowed.
 							</div>
 						</div>
@@ -575,7 +575,7 @@
 					</div>
 					<div id="collapse_18" class="panel-collapse collapse">
 						<div class="panel-body">
-							<div class="panel-content">
+							<div class="row panel-content">
 								Residents must use the bedding that is issued to them including the pillow.
 							</div>
 						</div>
@@ -603,7 +603,7 @@
 					</div>
 					<div id="collapse_19" class="panel-collapse collapse">
 						<div class="panel-body">
-							<div class="panel-content">
+							<div class="row panel-content">
 								100% Smoke-Free and Tobacco-Free Facility
 								<br>This policy supersedes the Smoke-Free Policy effective July 13, 2005
 								<br>Effective April 6, 2015, Midway Rehabilitation Center prohibits smoking or tobacco in any form in or on the premises of 1515 Magnolia Ave. This includes any type of tobacco paraphernalia such as: lighters, rolling papers, etc. No E-cigarettes or chewing tobacco are allowed.
@@ -643,7 +643,7 @@
 					</div>
 					<div id="collapse_20" class="panel-collapse collapse">
 						<div class="panel-body">
-							<div class="panel-content">
+							<div class="row panel-content">
 								No, residents are prohibited from visiting any other floor or fellow resident’s room.
 							</div>
 						</div>
