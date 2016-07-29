@@ -11,9 +11,9 @@
 		<div class="container">
 			<h3>TO REACH A RESIDENT CALL:</h3>
 			<ul class="list-unstyled">
-				<li class="h3">First Floor Phone # <br class="visible-xs">(865) 862-4358</li>
-				<li class="h3">Second Floor Phone # <br class="visible-xs">(865) 862-3791</li>
-				<li class="h3">Third Floor Phone # <br class="visible-xs">(865) 862-3790</li>
+				<li class="h3 inc-line-height">First Floor Phone # <br class="visible-xs">(865) 862-4358</li>
+				<li class="h3 inc-line-height">Second Floor Phone # <br class="visible-xs">(865) 862-3791</li>
+				<li class="h3 inc-line-height">Third Floor Phone # <br class="visible-xs">(865) 862-3790</li>
 			</ul>
 			<div id="manual-background">
 				<table class="hidden-xs hidden-sm">
