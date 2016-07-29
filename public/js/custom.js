@@ -3,10 +3,12 @@ $( document ).ready(function() {
     $(".collapse-link").click(function(){
       if($(this).hasClass('collapsed')){
         $(this).find("i").addClass("fa-angle-up").removeClass("fa-angle-down");
+        $(this).find(".collapse-row").addClass("green-background");
         $(this).find(".question").addClass("green-background");
         $(this).find(".collapse-arrow").addClass("dark-green-background");
       } else if (!$(this).hasClass('collapsed')) {
         $(this).find("i").addClass("fa-angle-down").removeClass("fa-angle-up");
+        $(this).find(".collapse-row").removeClass("green-background");
         $(this).find(".question").removeClass("green-background");
         $(this).find(".collapse-arrow").removeClass("dark-green-background");
       }

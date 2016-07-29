@@ -16,12 +16,14 @@
       				<div class="panel-heading">
         				<h4 class="panel-title">
                             <a class="collapse-link collapsed" data-toggle="collapse" href="#collapse_1">
-                                <div class="question col-xs-10 col-sm-10 col-md-11 col-lg-11 col-xl-11">
-                                	<span>What are the rules for visitation?</span>
-                                </div>
-                                <div class="collapse-arrow col-xs-2 col-sm-2 col-md-1 col-lg-1 col-xl-1 text-center">
-                                    <i class="fa fa-3x fa-angle-down" aria-hidden="true"></i>
-                                </div>
+                                <div class="row collapse-row">
+	                                <div class="question col-xs-10 col-sm-10 col-md-11 col-lg-11 col-xl-11">
+	                                	<span>What are the rules for visitation?</span>
+	                                </div>
+	                                <div class="collapse-arrow col-xs-2 col-sm-2 col-md-1 col-lg-1 col-xl-1 text-center">
+	                                    <i class="fa fa-3x fa-angle-down" aria-hidden="true"></i>
+	                                </div>
+                            	</div>
                             </a>
                         </h4>
 					</div>
@@ -595,7 +597,7 @@
                                 <div class="question col-xs-10 col-sm-10 col-md-11 col-lg-11 col-xl-11">
                                 	<span>Can residents visit other rooms or go to a floor they are not assigned to?</span>
                                 </div>
-                                <div class="collapse-arrow col-xs-2 col-sm-2 col-md-1 col-lg-1 col-xl-1text-center">
+                                <div class="collapse-arrow col-xs-2 col-sm-2 col-md-1 col-lg-1 col-xl-1 text-center">
                                     <i class="fa fa-3x fa-angle-down" aria-hidden="true"></i>
                                 </div>
                             </a>
