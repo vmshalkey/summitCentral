@@ -4,7 +4,7 @@
 
 <header>
 	<div class="container">
-		<h1>VOLUNTEER/CONTRACTOR PREA ORIENTATION</h1>
+		<h1>VOLUNTEER<br class="visible-xs">/CONTRACTOR <br class="visible-xs visible-sm">PREA <br class="visible-xs">ORIENTATION</h1>
 	</div>
 </header>
 <div class="section">
