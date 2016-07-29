@@ -57,7 +57,7 @@ header {
 	background-image: url('../img/header-background.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
-	height: 200px;
+	min-height: 200px;
 }
 
 #home-content {
@@ -202,7 +202,8 @@ header {
 }
 
 header h1 {
-	line-height: 150px;
+	padding-top: 50px;
+	padding-bottom: 50px;
 	color: white;
 }
 
