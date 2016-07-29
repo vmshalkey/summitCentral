@@ -3,6 +3,10 @@ body {
 	height: 100%
 }
 
+.img-smaller {
+	width: 80%;
+}
+
 .nav {
 	margin-top: 30px;
 }
@@ -425,7 +429,7 @@ footer {
 	background-color: rgb(224,191,138);
 }
 
-footer h6 {
+footer h5 {
 	text-align: right;
 }
 
