@@ -7,6 +7,10 @@ body {
 	width: 80%;
 }
 
+.nav > li > a {
+	padding: 10px !important;
+}
+
 .nav {
 	margin-top: 30px;
 }
