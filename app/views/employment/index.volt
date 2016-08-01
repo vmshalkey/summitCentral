@@ -9,7 +9,7 @@
 </header>
 <div class="section">
 	<div class="container">
-		<iframe id="fch_portal" src="https://app.firstchoicehiring.net/portal/initialize/VJxsM14F2_diEyUaGNXw-UVK4xJHBiCbPSfCpDt3lzc" scrolling="no" width="100%" height="800px" frameborder="0"></iframe>
+		<iframe id="fch_portal" src="https://app.firstchoicehiring.net/portal/initialize/VJxsM14F2_diEyUaGNXw-UVK4xJHBiCbPSfCpDt3lzc" width="100%" height="800px" frameborder="0"></iframe>
 	</div>
 </div>
 
