@@ -6,7 +6,7 @@
 	</footer>
 	<div id="lilbig-link">
 		<div class="container">
-			<a href="https://lilbigmedia.com/"><div class="text-right col-xs-12 col-sm-12 col-md-6 col-md-offset-6 col-lg-6 col-lg-offset-6 col-xl-6 col-xl-offset-6">
+			<a href="https://lilbigmedia.com/" target="_blank"><div class="text-right col-xs-12 col-sm-12 col-md-6 col-md-offset-6 col-lg-6 col-lg-offset-6 col-xl-6 col-xl-offset-6">
 				<h6 class="white-text italic inline-block">A LilBig Media Creation</h6>
 				<img class="inline-block" src="img/lilbig-logo.png">
 			</div></a>
