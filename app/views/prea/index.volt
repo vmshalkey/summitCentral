@@ -32,7 +32,7 @@
 		<p class="red-text bold">Midway has a zero tolerance policy toward all forms of sexual abuse and sexual harassment.</p>
 		<ul>
 			<!-- <li><a href="files/prea_post_audit_2016.pdf" target="_blank"><h4>View 2016 PREA POST Audit</h4></a></li> -->
-			<li><a href="{{ url("orientation") }}" target="_blank"><h4>View Volunteer / Contractor PREA Orientation</h4></a></li>
+			<li><a href="{{ url("orientation") }}"><h4>View Volunteer / Contractor PREA Orientation</h4></a></li>
 			<li><a href="files/survey_of_sexual_violence_2015.pdf" target="_blank"><h4>View 2015 Survey of Sexual Violence (SSV)</h4></a></li>
 			<li><a href="files/annual_audit_2015.pdf" target="_blank"><h4>View 2015 Annual Audit</h4></a></li>
 		</ul>
