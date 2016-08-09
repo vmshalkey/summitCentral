@@ -9,7 +9,7 @@
 </header>
 <div class="section">
 	<div class="container">
-		<ul class="list-unstyled">
+		<ul class="list-unstyled margin-lf-lt">
 			<li>
 				<h3>PREA Reporting:</h3>
 				<h4>24/7 Crisis Hotline:  865-522-7273 (Confidential)</h4>
@@ -29,12 +29,12 @@
 			</li>
 		</ul>
 		<p>It is the policy of Midway Rehabilitation Center to ensure that an administrative or criminal investigation is completed for all allegations of sexual abuse and sexual harassment.</p>
-		<p class="red-font">Midway has a zero tolerance policy toward all forms of sexual abuse and sexual harassment.</p>
+		<p class="red-text">Midway has a zero tolerance policy toward all forms of sexual abuse and sexual harassment.</p>
 		<ul>
-			<!-- <li><a href="files/prea_post_audit_2016.pdf">View 2016 PREA POST Audit</a></li> -->
-			<li><a href="{{ url("orientation") }}">View Volunteer / Contractor PREA Orientation </a></li>
-			<li><a href="files/survey_of_sexual_violence_2015.pdf">View 2015 Survey of Sexual Violence (SSV)</a></li>
-			<li><a href="files/annual_audit_2015.pdf">View 2015 Annual Audit</a></li>
+			<!-- <li><a href="files/prea_post_audit_2016.pdf"><h4>View 2016 PREA POST Audit</h4></a></li> -->
+			<li><a href="{{ url("orientation") }}"><h4>View Volunteer / Contractor PREA Orientation</h4></a></li>
+			<li><a href="files/survey_of_sexual_violence_2015.pdf"><h4>View 2015 Survey of Sexual Violence (SSV)</h4></a></li>
+			<li><a href="files/annual_audit_2015.pdf"><h4>View 2015 Annual Audit</h4></a></li>
 		</ul>
 	</div>
 </div>
