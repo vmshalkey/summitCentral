@@ -2,7 +2,7 @@
 
 use Phalcon\Mvc\Controller;
 
-class AuditController extends Controller
+class OrientationController extends Controller
 {
 
     public function indexAction()

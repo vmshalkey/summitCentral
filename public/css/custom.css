@@ -293,6 +293,10 @@ header h1 {
 	color: gray;
 }
 
+.red-text {
+	color: rgb(183,28,28);
+}
+
 .italic {
 	font-style: italic;
 }
