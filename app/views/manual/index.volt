@@ -24,7 +24,7 @@
 				</table>
 				<div class="visible-xs visible-sm">
 					<h2 class="white-text green-text-shadow">VIEW RESIDENT ORIENTATION MANUAL HERE</h2>
-					<a href="files/orientation_manual.pdf"><button class="btn green btn-lg">DOWNLOAD NOW</button></a>
+					<a href="files/orientation_manual.pdf" target="_blank"><button class="btn green btn-lg">VIEW PDF</button></a>
 				</div>
 			</div>
 			<table class="margin-lf-md hidden-xs hidden-sm">
