@@ -45,7 +45,7 @@ try {
     // Setup a base URI so that all generated URIs include the "midwayrehab" folder
     $di->set('url', function () {
         $url = new UrlProvider();
-        $url->setBaseUri('/midwayrehab/');
+        $url->setBaseUri('/');
         return $url;
     });
 
