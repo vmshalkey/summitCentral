@@ -457,4 +457,5 @@ footer h4 {
 
 .carousel-img {
 	height: 400px !important;
+	max-width: none !important;
 }
