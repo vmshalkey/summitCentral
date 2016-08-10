@@ -32,7 +32,7 @@
 
 					<!-- Wrapper for slides -->
 					<div class="carousel-inner" role="listbox">
-						<div class="item active">
+						<div class="item active gray-background">
 							<img class="carousel-img" src="img/entrance.jpg" alt="Chania">
 							<div class="carousel-caption">
 								<h3>Chania</h3>
@@ -40,7 +40,7 @@
 							</div>
 						</div>
 
-						<div class="item">
+						<div class="item gray-background">
 							<img class="carousel-img" src="img/common-area-1.jpg" alt="Chania">
 							<div class="carousel-caption">
 								<h3>Chania</h3>
@@ -48,7 +48,7 @@
 							</div>
 						</div>
 
-						<div class="item">
+						<div class="item gray-background">
 							<img class="carousel-img" src="img/common-area-2.jpg" alt="Flower">
 							<div class="carousel-caption">
 								<h3>Flowers</h3>
@@ -56,7 +56,7 @@
 							</div>
 						</div>
 
-						<div class="item">
+						<div class="item gray-background">
 							<img class="carousel-img" src="img/bedroom.jpg" alt="Flower">
 							<div class="carousel-caption">
 								<h3>Flowers</h3>
@@ -64,7 +64,7 @@
 							</div>
 						</div>
 
-						<div class="item">
+						<div class="item gray-background">
 							<img class="carousel-img" src="img/quad-room.jpg" alt="Flower">
 							<div class="carousel-caption">
 								<h3>Flowers</h3>
@@ -72,7 +72,7 @@
 							</div>
 						</div>
 
-						<div class="item">
+						<div class="item gray-background">
 							<img class="carousel-img" src="img/visitor-area.jpg" alt="Flower">
 							<div class="carousel-caption">
 								<h3>Flowers</h3>
@@ -80,7 +80,7 @@
 							</div>
 						</div>
 
-						<div class="item">
+						<div class="item gray-background">
 							<img class="carousel-img" src="img/fitness-room.jpg" alt="Flower">
 							<div class="carousel-caption">
 								<h3>Flowers</h3>
@@ -88,7 +88,7 @@
 							</div>
 						</div>
 
-						<div class="item">
+						<div class="item gray-background">
 							<img class="carousel-img" src="img/lunch-room.jpg" alt="Flower">
 							<div class="carousel-caption">
 								<h3>Flowers</h3>
@@ -96,7 +96,7 @@
 							</div>
 						</div>
 
-						<div class="item">
+						<div class="item gray-background">
 							<img class="carousel-img" src="img/laundry-room.jpg" alt="Flower">
 							<div class="carousel-caption">
 								<h3>Flowers</h3>
@@ -104,7 +104,7 @@
 							</div>
 						</div>
 
-						<div class="item">
+						<div class="item gray-background">
 							<img class="carousel-img" src="img/phone-booths.jpg" alt="Flower">
 							<div class="carousel-caption">
 								<h3>Flowers</h3>

@@ -270,6 +270,10 @@ header h1 {
 	color: white !important;
 }
 
+.gray-background {
+	background-color: rgb(238,238,238);
+}
+
 /*END Collapse Questions in FAQS*/
 
 .section {
