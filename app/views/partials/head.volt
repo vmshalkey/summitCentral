@@ -10,6 +10,9 @@
 	<!-- BootStrap: CSS -->
 	<link rel="stylesheet" type="text/css" href="public/css/bootstrap.css">
 
+	<!-- BootStrap: CDN -->
+	<link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet">
+
 	<!-- Custom CSS -->
 	<link rel="stylesheet" type="text/css" href="public/css/custom.css">
 
