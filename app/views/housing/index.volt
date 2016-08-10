@@ -115,7 +115,7 @@
 
 					<!-- Left and right controls -->
 					<a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
-						<span class="fa-angle-right fa-2x white-text" aria-hidden="true"></span>
+						<span class="fa-angle-left fa-2x white-text" aria-hidden="true"></span>
 						<span class="sr-only">Previous</span>
 					</a>
 					<a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
