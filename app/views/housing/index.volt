@@ -27,7 +27,6 @@
 						<li data-target="#myCarousel" data-slide-to="6"></li>
 						<li data-target="#myCarousel" data-slide-to="7"></li>
 						<li data-target="#myCarousel" data-slide-to="8"></li>
-						<li data-target="#myCarousel" data-slide-to="9"></li>
 					</ol>
 
 					<!-- Wrapper for slides -->
@@ -36,13 +35,6 @@
 							<img class="carousel-img" src="img/entrance.jpg" alt="Chania">
 							<div class="carousel-caption">
 								<h6 class="white-text">Entrance</h6>
-							</div>
-						</div>
-
-						<div class="item gray-background">
-							<img class="carousel-img" src="img/common-area-1.jpg" alt="Chania">
-							<div class="carousel-caption">
-								<h6 class="white-text">Common Area</h6>
 							</div>
 						</div>
 
