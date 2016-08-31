@@ -120,12 +120,14 @@ header {
 	position: absolute;
 	top: 625px;
 	width: 100%;
+	z-index: 1000;
 }
 
 #home-quick-links-sm {
 	position: absolute;
 	top: 580px;
 	width: 100%;
+	z-index: 1000;
 }
 
 #home-quick-links-xs {
